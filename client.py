@@ -1,4 +1,5 @@
 ##CLIENT##
+#use this client script to connect and communicate with the server in the server script
 
 import socket
 
