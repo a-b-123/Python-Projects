@@ -1,3 +1,5 @@
+#python program to get the scores of current NBA games and stats of players in each game.
+
 from requests import get
 from pprint import PrettyPrinter
 
