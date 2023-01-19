@@ -1,4 +1,4 @@
-#Basic Python GUI Port Scanner to scan the Default Gateway on your Network OR your own host, "localhost"
+#Basic Python GUI Port Scanner to scan the well-known ports on the Default Gateway on your Network OR your own host, "localhost"
 #Learned how to do this (especially using tkinter for GUI) with help from a great tutorial by CodeOnBy on YouTube: https://www.youtube.com/watch?v=W4dqliRCtaw
 #THIS IS INTENDED FOR EDUCATIONAL PURPOSES ONLY
 
