@@ -17,7 +17,7 @@ print("---------------")
 PortStart = 1
 PortFin = 1024
 OpenPorts = []
-Target = '192.168.1.254' 
+Target = 'Gateway' #or 'localhost' 
 
 def Scan(Target, ports):
     try:
@@ -61,7 +61,7 @@ def Clean():
     listbox.delete(0,'end')
 
 GUI = Tk()
-GUI.title("PEEK Port Scanner")
+##GUI.title("PEEK Port Scanner")
 GUI.geometry("400x600+20+20")
 
 C1 = '#00ee00'
