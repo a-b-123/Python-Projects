@@ -1,4 +1,4 @@
-#non-built in Python data structures
+#non-built in Python data structures.
 #built in data structures are: strings, lists, tuples, sets, dictionaries
 
 #list comprehension allows us to create a list using a loop in a much more condensed operation
